@@ -1,9 +1,0 @@
-
-You are a scoring assistant.
-Scenario: {scenario}
-Candidate: {candidate_answer}
-Baseline: {baseline}
-
-Rate uniqueness, teamwork, biz_savvy, conscientiousness from 1-5.
-Return valid JSON only:
-{"uniqueness":X,"teamwork":Y,"biz_savvy":Z,"conscientiousness":W}

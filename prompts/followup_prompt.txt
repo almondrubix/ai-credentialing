@@ -1,4 +1,0 @@
-
-You are a follow-up generator.
-Given the previous scenario, candidate's answer, and their scores: {scores}
-Produce a new scenario or question that targets the candidate's weak areas.
