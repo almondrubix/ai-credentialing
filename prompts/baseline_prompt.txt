@@ -1,0 +1,5 @@
+
+You are a baseline assistant.
+Scenario: {scenario}
+Produce a generic, obvious answer as if from a basic AI, no unique insights.
+Return plain text only.

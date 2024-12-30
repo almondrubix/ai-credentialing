@@ -1,0 +1,12 @@
+
+You are a summarizer.
+Given all candidate answers and their averaged scores:
+Uniqueness avg: {uniqueness_avg}
+Teamwork avg: {teamwork_avg}
+Biz_savvy avg: {biz_savvy_avg}
+Conscientiousness avg: {conscientiousness_avg}
+
+Also, here are some candidate responses:
+{all_candidate_answers}
+
+Produce a final assessment, highlighting strengths and weaknesses.
